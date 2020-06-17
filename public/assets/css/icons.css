@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "icomoon";
+  src: url("https://cdn.glitch.com/a0f896a4-4e28-47a9-b792-0307f9c0c167%2Ficomoon.eot");
+  src: url("https://cdn.glitch.com/a0f896a4-4e28-47a9-b792-0307f9c0c167%2Ficomoon.eot?#iefix") format("embedded-opentype"),
+    url("https://cdn.glitch.com/a0f896a4-4e28-47a9-b792-0307f9c0c167%2Ficomoon.ttf") format("truetype"),
+    url("https://cdn.glitch.com/a0f896a4-4e28-47a9-b792-0307f9c0c167%2Ficomoon.woff") format("woff"),
+    url("https://cdn.glitch.com/a0f896a4-4e28-47a9-b792-0307f9c0c167%2Ficomoon.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"],
+[class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: "icomoon" !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-SuperCruisr:before {
+  content: "\e91d";
+  color: #ee2424;
+}
+.icon-360:before {
+  content: "\e900";
+}
+.icon-AR:before {
+  content: "\e901";
+}
+.icon-audience:before {
+  content: "\e902";
+}
+.icon-augmented:before {
+  content: "\e903";
+}
+.icon-bong:before {
+  content: "\e904";
+}
+.icon-broadcast:before {
+  content: "\e905";
+}
+.icon-browser:before {
+  content: "\e906";
+}
+.icon-build:before {
+  content: "\e907";
+}
+.icon-concert:before {
+  content: "\e908";
+}
+.icon-dome:before {
+  content: "\e909";
+}
+.icon-electric:before {
+  content: "\e90a";
+}
+.icon-game:before {
+  content: "\e90b";
+}
+.icon-glove:before {
+  content: "\e90c";
+}
+.icon-hololense:before {
+  content: "\e90d";
+}
+.icon-keyboard:before {
+  content: "\e90e";
+}
+.icon-mask:before {
+  content: "\e90f";
+}
+.icon-me:before {
+  content: "\e910";
+}
+.icon-mic:before {
+  content: "\e911";
+}
+.icon-music:before {
+  content: "\e912";
+}
+.icon-pano:before {
+  content: "\e913";
+}
+.icon-protea:before {
+  content: "\e914";
+}
+.icon-racer:before {
+  content: "\e915";
+}
+.icon-share:before {
+  content: "\e916";
+}
+.icon-teleport:before {
+  content: "\e917";
+}
+.icon-touch:before {
+  content: "\e918";
+}
+.icon-video:before {
+  content: "\e919";
+}
+.icon-vive:before {
+  content: "\e91a";
+}
+.icon-VR:before {
+  content: "\e91b";
+}
+.icon-zar:before {
+  content: "\e91c";
+}
